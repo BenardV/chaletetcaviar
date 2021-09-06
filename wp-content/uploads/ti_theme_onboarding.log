@@ -1,0 +1,23 @@
+[06/Aug/2021:10:58:06] (I): WordPress Instance Info:
+[06/Aug/2021:10:58:06] (I): Home URL : http://localhost/wordpress
+[06/Aug/2021:10:58:06] (I): Site URL : http://localhost/wordpress
+[06/Aug/2021:10:58:06] (I): WordPress Version : 5.8
+[06/Aug/2021:10:58:06] (I): Onboarding Version : 1.1.16
+[06/Aug/2021:10:58:06] (I): Multisite : No
+[06/Aug/2021:10:58:06] (I): Server Info : Apache/2.4.46 (Win64) PHP/7.3.21
+[06/Aug/2021:10:58:06] (I): PHP Version : 7.3.21
+[06/Aug/2021:10:58:06] (I): HTTPS : No
+[06/Aug/2021:10:58:06] (I): PHP Max Execution Time : 120
+[06/Aug/2021:10:58:06] (I): PHP Max Input Vars : 2500
+[06/Aug/2021:10:58:06] (I): Max Upload Size : 2097152
+[06/Aug/2021:10:58:06] (I): Plugins:
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Caldera Forms : v1.9.4 (Caldera Forms)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Duplicate Page : v4.4.1 (mndpsingh287)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Elementor : v3.3.1 (Elementor.com)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Essential Addons for Elementor : v4.8.2 (WPDeveloper)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Elementor Header &amp; Footer Builder : v1.6.3 (Brainstorm Force, Nikhil Chavan)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.9 (ThemeIsle)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Premium Addons for Elementor : v4.4.6 (Leap13)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Templates Patterns Collection : v1.1.16 (ThemeIsle)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] Orbit Fox Companion : v2.10.7 (Themeisle)
+[06/Aug/2021:10:58:06] (I): [PLUGIN] WPForms Lite : v1.6.8.1 (WPForms)
